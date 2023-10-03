@@ -1,0 +1,15 @@
+{
+    "4leaf-gt-championship": {
+        "displayName": "4 Leaf GT Championship",
+        "currentSeason": [
+            {
+                "name": "Driver A",
+                "points": 320
+            },
+            {
+                "name": "Driver B",
+                "points": 280
+            }
+        ]
+    }
+}
